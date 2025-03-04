@@ -1,16 +1,16 @@
 
 /* src/Views/HomePage.css */
-.cafe-homepage {
+.cafe-homePage {
     text-align: center;
     padding: 50px;
 }
 
-.cafe-homepage h1 {
+.cafe-homePage h1 {
     font-size: 3rem;
     margin-bottom: 20px;
 }
 
-.cafe-homepage p {
+.cafe-homePage p {
     font-size: 1.5rem;
     color: #555;
 }
